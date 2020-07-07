@@ -28,7 +28,7 @@ print(friends)
 print("enter numbers to get the mean, type done after finished")
 numlist = list()
 while True:
-    inp = input("Enter a number: ")
+    inp = input("Enter a number: ")#igjkojiugiojkhgyuyoupikjiuogtyu90-piuoiuiouhuilhp[
     if inp == 'done' : break
     try:
         value = float(inp)
